@@ -7,3 +7,5 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 
 
 ![](img/Mapa%20Mental%201.jpeg)
+
+![](img/Mapa%20mental%202.jpeg)
