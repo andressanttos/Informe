@@ -1,5 +1,5 @@
 # Informe
-1. Objetivos 
+1.OBJETIVOS 
 
 2.MARCO TEÓRICO
 
@@ -9,3 +9,21 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 ![](img/Mapa%20Mental%201.jpeg)
 
 ![](img/Mapa%20mental%202.jpeg)
+
+
+3. DIAGRAMAS
+
+4. LISTA DE COMPONENTES
+
+5. EXPLICACIÓN 
+
+6. MANUAL DEL USUARIO 
+
+7. APORTACIONES
+
+8. CONLCUSIONES
+
+9. BIBLIOGRAFÍA 
+
+
+10. ANEXOS
