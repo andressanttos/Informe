@@ -29,11 +29,13 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 
 5. EXPLICACIÓN 
 
-6. MANUAL DEL USUARIO 
+A modo de una explicación clara se tomara en cuneta al flujo de electrones procedente del lado positivo de la fuente de voltaje, hacia el lado negativo de la misma. 
 
-7. APORTACIONES
+6. APORTACIONES
 
-8. CONLCUSIONES
+7. CONLCUSIONES
+
+Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a los valores del simulador, los cuales toman menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. 
 
 9. BIBLIOGRAFÍA 
 
