@@ -50,53 +50,51 @@ Una vez que la corriente de electrones logra vencer la primera resistencia (1 ko
 *Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:*
  
 
-_Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito: 
+-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito: 
  
  ![](img/Resultados%20Voltaje%20y%20Corriente.jpg)
 
-_Tabla 1.2. Verificación de la LVK:
+-Tabla 1.2. Verificación de la LVK:
 
 ![](img/Verificación%20de%20la%20LVK.jpg)
 
-_Tabla 1.3. Verificación de la LCK:
+-Tabla 1.3. Verificación de la LCK:
 
 ![](img/Verificación%20de%20la%20LCK.jpg)
 
 
 Resultados medidos con los valores obtenidos al analizar el circuito analíticamente: 
 
-_•Calculo del error porcentual de la LVK:
+•Calculo del error porcentual de la LVK:
 
 ![](img/Error%20porcentual%20de%20la%20LVK.jpg)
 
-_•Calculo del error porcentual de la LCK:
+•Calculo del error porcentual de la LCK:
 
 ![](img/Error%20porcentual%20de%20la%20LCK.jpg)
 
 
-
-
-
-
-
-
-
-
-
 6. CONCLUSIONES:
 
-• Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. 
-
-•	Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 1% en su mayoría.
+• Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 1% en su mayoría.
 
 •	Se corroboró la primera ley de Kirchhoff. En un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son iguales. De igual forma la segunda ley de Kirchhoff también fue verificada. En una malla, la suma algebraica de voltajes es igual a cero. Con los valores hallados experimentalmente, y el empleo de tablas, validamos esta ley.
 
 •El manejo de las leyes de Kirchhoff pueden resolver sin mayor complicación circuitos eléctricos complejos mediante la reducción de los mismos a circuitos más simples.
 
+•Se hizo uso del multímetro y la forma en medir la intensidad de corriente y voltaje. Existen condiciones que hay que tener en el circuito antes
+de utilizar el multímetro para que no se cometan errores en la medición y obtener un buen resultado.
+
+
+
 
 7. BIBLIOGRAFÍA
 
 •Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
+
+•Alulema Darwin (2020). Capítulo 2. Ley de las Corrientes de Kirchhoff. Págs (56-77) 
+
+•Batlle Arnau, C., & Dòria Cerezo, A. (2010). De la mecánica clásica y las leyes de Kirchhoff a los sistemas hamiltonianos con puertos. La gaceta de la Real Sociedad Matemática Española, 13(1), 31-52.
 
 •AlaYoable. (2010). Electricidad: conceptos básicos. [Video]. Recuperado de: https://youtu.be/ElB3GrL4eCY. 
 
