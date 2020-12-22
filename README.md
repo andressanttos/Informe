@@ -25,6 +25,10 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 
 ![](img/Diagrama%20Circuito%20Eléctrico.jpg)
 
+![](img/Diagrama%20Amperaje%20%20%20%20%20.jpg)
+
+![](img/Diagrama%20Voltaje%20.jpg)
+
 4. LISTA DE COMPONENTES
 
 ![](img/Material%20y%20Equipo%20Requerido.jpg)
