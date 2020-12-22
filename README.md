@@ -77,4 +77,11 @@ IR5 (mA)    	2.053           	2.05
 
 8. ANEXOS
 
+![](img/Anexos%201.jpg)
+
+![](img/Anexos%202.jpg)
+
+![](img/Anexos%203.jpg)
+
+![](img/Cálculos.jpeg)
 
