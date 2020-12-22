@@ -43,23 +43,13 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 
 A modo de una explicación clara se tomará en cuenta el flujo de electrones desde el lado positivo de la fuente de voltaje, hacia el lado negativo de la misma. El circuito eléctrico siempre tiene el mismo funcionamiento, ya sea simple o complejo. 
 
-El voltaje, la tensión o diferencia de potencial (10 V) que suministra la fuente de alimentación al circuito se caracteriza por tener su valor fijo. En dependencia de la mayor o menor resistencia en ohmios que encuentre el flujo de corriente de electrones al recorrer el circuito, así será su intensidad en ampere (A). 
+El voltaje, la tensión o diferencia de potencial que suministra la fuente de alimentación al circuito se caracteriza por tener su valor fijo (10 V). En dependencia de la mayor o menor resistencia en ohmios que encuentre el flujo de corriente de electrones al recorrer el circuito, así será su intensidad en amperios. Al inicio nos encontramos con una resistencia de 1kohm. 
 
-Una vez que la corriente de electrones logra vencer la primera resistencia (1 kohm) que ofrece a su paso el consumidor o carga conectada al circuito, retorna a la fuente de fuerza electromotriz por su polo positivo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo.  
+Una vez que la corriente de electrones logra vencer la primera resistencia (1 kohm) y las posteriores, la corriente eléctrica retorna a la fuente de fuerza electromotriz por su polo negativo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo, en este caso, al detneer la simulación. La resistencia eléctrica tiene la función de oponerse al paso de corriente eléctrica en el circuito. Esta característica de oposición al paso de la corriente eléctrica, produce una serie de efectos de los cuales podemos ser testigos. Efectos como la caída de tensión (divisor de tensión) o establecer la corriente que va a circular por una rama poniendo una resistencia u otra en paralalelo.   
 
-Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+´*Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:*
  
-VARIABLE 	VALOR CALCULADO 	VALOR MEDIDO 
-VR1  (V)    	2.053 	          2.05
-IR1 (mA)    	2.053 	          2.05
-VR2 (V) 	    4.24             	4.25
-IR2 (mA)    	1.088           	1.09
-VR3 (V) 	    2.123            	2.12
-IR3 (mA)    	0.965 	          0.965
-VR4 (V) 	    2.123            	2.12
-IR4 (mA)    	0.965 	          0.965
-VR5 (V)     	3.695 	          3.7
-IR5 (mA)    	2.053           	2.05
+
 
 6. CONCLUSIONES:
 
