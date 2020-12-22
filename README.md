@@ -1,5 +1,14 @@
 # Informe
 1.OBJETIVOS 
+ 
+•	Describir las características de las ramas, los nodos y los lazos de un circuito  
+
+•	Aplicar las leyes de Kirchhoff  para analizar circuitos con dos lazos  
+
+•	Explicar cómo las leyes de Kirchhoff son consecuencia de la conservación de la carga y la energía
+
+•	Verificar las leyes de Kirchhoff en circuitos con dos lazos
+
 
 2.MARCO TEÓRICO
 
