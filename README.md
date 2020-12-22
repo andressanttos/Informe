@@ -100,6 +100,7 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 
 •IngeDarwin. (2019). LEY DE KIRCHHOFF (MALLAS) / EJERCICIO 1 [Video]. Recuperado de: https://www.youtube.com/watch?v=1NC9kGDn7Bg
 
+•Santos M. (2020). Tinkercad. "Voltaje". Recuperado de: https://www.tinkercad.com/things/5c7HMBvtmsq-voltaje
 
 
 8. ANEXOS
