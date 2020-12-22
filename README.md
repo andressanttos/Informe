@@ -41,9 +41,11 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 
 5. EXPLICACIÓN 
 
-A modo de una explicación clara se tomará en cuenta al flujo de electrones desde el lado positivo de la fuente de voltaje, hacia el lado negativo de la misma. El circuito eléctrico entra en funcionamiento El funcionamiento de un circuito eléctrico es siempre el mismo ya sea éste simple o complejo. El voltaje, tensión o diferencia de potencial (V) que suministra la fuente de fuerza electromotriz (FEM) a un circuito se caracteriza por tener normalmente un valor fijo. En dependencia de la mayor o menor resistencia en ohm () que encuentre el flujo de corriente de electrones al recorrer el circuito, así será su intensidad en ampere (A). 
+A modo de una explicación clara se tomará en cuenta el flujo de electrones desde el lado positivo de la fuente de voltaje, hacia el lado negativo de la misma. El circuito eléctrico siempre tiene el mismo funcionamiento, ya sea simple o complejo. 
 
-Una vez que la corriente de electrones logra vencer la resistencia (R) que ofrece a su paso el consumidor o carga conectada al circuito, retorna a la fuente de fuerza electromotriz por su polo positivo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo.  
+El voltaje, la tensión o diferencia de potencial (10 V) que suministra la fuente de alimentación al circuito se caracteriza por tener su valor fijo. En dependencia de la mayor o menor resistencia en ohmios que encuentre el flujo de corriente de electrones al recorrer el circuito, así será su intensidad en ampere (A). 
+
+Una vez que la corriente de electrones logra vencer la primera resistencia (1 kohm) que ofrece a su paso el consumidor o carga conectada al circuito, retorna a la fuente de fuerza electromotriz por su polo positivo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo.  
 
 6. CONCLUSIONES:
 
