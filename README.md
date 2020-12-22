@@ -1,21 +1,15 @@
 # Informe
 1.OBJETIVOS 
 
-Interpretar la ley de Ohm en el análisis de circuitos sencillos.
+•	Describir las características de las ramas, los nodos y los lazos de un circuito. Inferir las Leyes de Kirchhoff en base a los resultados experimentales de la simulación. 
 
-Resolver las diferentes asociaciones de resistencias presentes en un circuito.
+• A través de las Leyes de Kirchhoff	calcular los valores teóricos de las intensidades de corriente y los voltajes en un circuito específico.  
 
-Aplicar las leyes de Kirchhoff en la solución de circuitos con generadores.
+• Usar de igual forma la Ley de Ohm para el cálculo matemático de corrientes y tensiones.
 
-Analizar e interpretar la diferencia entre los circuitos serie, paralelos y mixtos con dispositivos como las resistencias.
- 
-•	Describir las características de las ramas, los nodos y los lazos de un circuito ç
+•	Explicar cómo las leyes de Kirchhoff son consecuencia de la conservación de la carga y la energía.
 
-•	Aplicar las leyes de Kirchhoff  para analizar circuitos con dos lazos  
-
-•	Explicar cómo las leyes de Kirchhoff son consecuencia de la conservación de la carga y la energía
-
-•	Verificar las leyes de Kirchhoff en circuitos con dos lazos
+•	Comparar los resultados teóricos hallados mediante el cálculo y los experimentales usando equipos de medición (simulados) y determinar el error porcentual presente entre ellos.
 
 
 2.MARCO TEÓRICO
@@ -43,7 +37,7 @@ A modo de una explicación clara se tomara en cuneta al flujo de electrones proc
 
 7. CONLCUSIONES
 
-Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a los valores del simulador, los cuales toman menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. 
+• Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. 
 
 9. BIBLIOGRAFÍA 
 
