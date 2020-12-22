@@ -113,3 +113,5 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 
 ![](img/Cálculos.jpeg)
 
+![](img/Cálculos%202.jpeg)
+
