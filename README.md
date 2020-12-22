@@ -1,7 +1,15 @@
 # Informe
 1.OBJETIVOS 
+
+Interpretar la ley de Ohm en el análisis de circuitos sencillos.
+
+Resolver las diferentes asociaciones de resistencias presentes en un circuito.
+
+Aplicar las leyes de Kirchhoff en la solución de circuitos con generadores.
+
+Analizar e interpretar la diferencia entre los circuitos serie, paralelos y mixtos con dispositivos como las resistencias.
  
-•	Describir las características de las ramas, los nodos y los lazos de un circuito  
+•	Describir las características de las ramas, los nodos y los lazos de un circuito ç
 
 •	Aplicar las leyes de Kirchhoff  para analizar circuitos con dos lazos  
 
@@ -12,7 +20,7 @@
 
 2.MARCO TEÓRICO
 
-Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LCK respectivamente, son dos igualdades que se basan en el principio de conservación de la energía y en la carga de los circuitos eléctricos. LVK establece que la suma algebraica de las caídas de voltaje en una secuencia cerrada de nodos es igual a la suma de las elevaciones de voltaje de la misma. De igual manera LCK establece que la corriente entrante a un nodo es igual a la suma de las corrientes salientes.
+Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LCK respectivamente, son dos igualdades que se basan en el principio de conservación de la energía y en la carga de los circuitos eléctricos. La ley de voltaje de Kirchhoff establece que la suma algebraica de las caídas de voltaje en una secuencia cerrada de nodos es igual a la suma de las elevaciones de voltaje de la misma. De igual manera la ley de corriente de Kirchhoff establece que la corriente entrante a un nodo es igual a la suma de las corrientes salientes.
 
 
 ![](img/Mapa%20mental%202.jpeg)
