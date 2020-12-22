@@ -47,8 +47,19 @@ El voltaje, la tensión o diferencia de potencial que suministra la fuente de al
 
 Una vez que la corriente de electrones logra vencer la primera resistencia (1 kohm) y las posteriores, la corriente eléctrica retorna a la fuente de fuerza electromotriz por su polo negativo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo, en este caso, al detneer la simulación. La resistencia eléctrica tiene la función de oponerse al paso de corriente eléctrica en el circuito. Esta característica de oposición al paso de la corriente eléctrica, produce una serie de efectos de los cuales podemos ser testigos. Efectos como la caída de tensión (divisor de tensión) o establecer la corriente que va a circular por una rama poniendo una resistencia u otra en paralalelo.   
 
-´*Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:*
+*Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:*
  
+ _Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito: 
+ 
+ ![](img/Resultados%20Voltaje%20y%20Corriente.jpg)
+
+_Tabla 1.2. Verificación de la LVK:
+
+![](img/Verificación%20de%20la%20LCK.jpg)
+
+_Tabla 1.3. Verificación de la LCK:
+
+![](img/Verificación%20de%20la%20LVK.jpg)
 
 
 6. CONCLUSIONES:
