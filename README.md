@@ -67,6 +67,12 @@ Resultados medidos con los valores obtenidos al analizar el circuito analíticam
 
 _•Calculo del error porcentual de la LVK:
 
+![](img/Error%20porcentual%20de%20la%20LVK.jpg)
+
+_•Calculo del error porcentual de la LCK:
+
+![](img/Error%20porcentual%20de%20la%20LCK.jpg)
+
 
 
 
