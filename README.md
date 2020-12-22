@@ -111,7 +111,7 @@ de utilizar el multímetro para que no se cometan errores en la medición y obte
 
 ![](img/Anexos%203.jpg)
 
-![](img/Cálculos.jpeg)
+![](img/Cálculos%201.jpg)
 
 ![](img/Cálculos%202.jpeg)
 
