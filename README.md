@@ -47,6 +47,20 @@ El voltaje, la tensión o diferencia de potencial (10 V) que suministra la fuent
 
 Una vez que la corriente de electrones logra vencer la primera resistencia (1 kohm) que ofrece a su paso el consumidor o carga conectada al circuito, retorna a la fuente de fuerza electromotriz por su polo positivo. El flujo de corriente eléctrica o de electrones se mantendrá circulando por el circuito hasta tanto no se accione el interruptor que permite detenerlo.  
 
+Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+ 
+VARIABLE 	VALOR CALCULADO 	VALOR MEDIDO 
+VR1  (V)    	2.053 	          2.05
+IR1 (mA)    	2.053 	          2.05
+VR2 (V) 	    4.24             	4.25
+IR2 (mA)    	1.088           	1.09
+VR3 (V) 	    2.123            	2.12
+IR3 (mA)    	0.965 	          0.965
+VR4 (V) 	    2.123            	2.12
+IR4 (mA)    	0.965 	          0.965
+VR5 (V)     	3.695 	          3.7
+IR5 (mA)    	2.053           	2.05
+
 6. CONCLUSIONES:
 
 • Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. 
@@ -62,3 +76,5 @@ Una vez que la corriente de electrones logra vencer la primera resistencia (1 ko
 
 
 8. ANEXOS
+
+
