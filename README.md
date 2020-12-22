@@ -45,11 +45,14 @@ A modo de una explicación clara se tomara en cuneta al flujo de electrones proc
 
 6. APORTACIONES
 
-7. CONLCUSIONES
+7. CONCLUSIONES
 
 • Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. 
 
-9. BIBLIOGRAFÍA 
+9. BIBLIOGRAFÍA
+
+ •Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
+
 
 
 10. ANEXOS
