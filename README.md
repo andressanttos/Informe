@@ -49,17 +49,32 @@ Una vez que la corriente de electrones logra vencer la primera resistencia (1 ko
 
 *Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:*
  
- _Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito: 
+
+_Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito: 
  
  ![](img/Resultados%20Voltaje%20y%20Corriente.jpg)
 
 _Tabla 1.2. Verificación de la LVK:
 
-![](img/Verificación%20de%20la%20LCK.jpg)
+![](img/Verificación%20de%20la%20LVK.jpg)
 
 _Tabla 1.3. Verificación de la LCK:
 
-![](img/Verificación%20de%20la%20LVK.jpg)
+![](img/Verificación%20de%20la%20LCK.jpg)
+
+
+Resultados medidos con los valores obtenidos al analizar el circuito analíticamente: 
+
+_•Calculo del error porcentual de la LVK:
+
+
+
+
+
+
+
+
+
 
 
 6. CONCLUSIONES:
