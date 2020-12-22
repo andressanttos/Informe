@@ -23,9 +23,15 @@ Las leyes de voltajes y corrientes de Kirchhoff cuyas abreviaciones son LVK y LC
 
 3. DIAGRAMAS
 
+*Diagrama Sistemático:* 
+
 ![](img/Diagrama%20Circuito%20Eléctrico.jpg)
 
+*Diagrama medición de Amperaje:*
+
 ![](img/Diagrama%20Amperaje%20%20%20%20%20.jpg)
+
+*Diagrama medición de Voltaje:*
 
 ![](img/Diagrama%20Voltaje%20.jpg)
 
