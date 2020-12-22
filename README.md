@@ -87,6 +87,13 @@ _•Calculo del error porcentual de la LCK:
 
 • Los errores presentes en el análisis de las dos leyes de Kirchhoff se originan debido a la toma de valores del simulador, los cuales ocupan menos cifras decimales, esto en un modo práctico no es recomendable hacer. Por otro lado, para los valores calculados se tomaron en cuenta más cifras significativas y nos arrojaron un valor más aproximado a la realidad. Siendo causa generadora del error porcentual en el laboratorio. 
 
+•	Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados a los valores experimentales, con errores menores al 1% en su mayoría.
+
+•	Se corroboró la primera ley de Kirchhoff. En un nodo, la suma de corrientes entrantes es igual a la suma de corrientes salientes. Con los valores experimentales, estas sumas son iguales. De igual forma la segunda ley de Kirchhoff también fue verificada. En una malla, la suma algebraica de voltajes es igual a cero. Con los valores hallados experimentalmente, y el empleo de tablas, validamos esta ley.
+
+•El manejo de las leyes de Kirchhoff pueden resolver sin mayor complicación circuitos eléctricos complejos mediante la reducción de los mismos a circuitos más simples.
+
+
 7. BIBLIOGRAFÍA
 
 •Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
